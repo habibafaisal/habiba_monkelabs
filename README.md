@@ -20,3 +20,7 @@ npm install
 Start the development server:
 
 npm start
+
+
+**To view the screenshots, you can download the file Screenshots.pdf
+
